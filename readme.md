@@ -1,7 +1,7 @@
-#Chat app CSS illustration
+*Chat app CSS illustration*
 An Online Front-End Chat Application 
 
-##Front-end Style Guide*
+##Front-end Style Guide##
 **Layout**
 The designs were created to the following widths:
 
